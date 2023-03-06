@@ -13,15 +13,24 @@
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
+
 # 💻 Devbubba's Portfolio
 
 ### My Own Simple And Modern Portfolio I Made In HTML, CSS, And JavaScript
+
 
 # 📷 Preview
 
 <p align=center>
   <a href=""><img width="80%" src="img/AboutMePagePreview.png"/></a>
 </p>
+
+
+## ⚠️ Bugs?
+
+-   Make An [issue](https://github.com/DevBubba/Dark-Tower/issues)
+-   Join The [Discord](https://discord.gg/) **Discord Invite Is Invalid Untill I Can Make An Offical Discord Server**
+
 
 # 🧾 License
 
