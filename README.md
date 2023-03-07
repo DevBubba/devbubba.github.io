@@ -1,4 +1,4 @@
-<img src="img/MainPagePreview.png" width="100%" height="100%" />
+<img src="img/PrimaryPagePreview.png" width="100%" height="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/DevBubba/devbubba.github.io?color=%23000000">
