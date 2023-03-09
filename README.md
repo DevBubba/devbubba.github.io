@@ -22,6 +22,7 @@
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
 - **[🔗 〢 Discord](https://discord.gg)**
+- **[📚 〢 Changelog](#changelog)**
 - **[📷 〢 Preview](#preview)**
 - **[🧾 〢 Lisence](#lisence)**
 
@@ -49,6 +50,11 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/FeaturedProjectsPage2Preview.png"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
+
+
+## <a id="changelog"></a> 📚 〢 Changelog 
+
+All Notable Changes To devbubba.github.io (This Project) Will Be Documented In This [File](https://github.com/DevBubba/devbubba.github.io/blob/main/CHANGELOG.md)
 
 
 ## 🧾 <a id="lisence"></a> License
