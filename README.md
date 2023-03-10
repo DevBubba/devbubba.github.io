@@ -22,7 +22,6 @@
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
 - **[🔗 〢 Discord](https://discord.gg)**
-- **[📚 〢 Changelog](#changelog)**
 - **[📷 〢 Preview](#preview)**
 - **[🧾 〢 Lisence](#lisence)**
 
@@ -52,12 +51,8 @@
 </div>
 
 
-## <a id="changelog"></a> 📚 〢 Changelog 
-
-All Notable Changes To devbubba.github.io (This Project) Will Be Documented In This [File](https://github.com/DevBubba/devbubba.github.io/blob/main/CHANGELOG.md)
-
-
 ## 🧾 <a id="lisence"></a> License
+
 
 ### devbubba.github.io is licensed under the <a href="https://mit-license.org/.">MIT License</a>
 
