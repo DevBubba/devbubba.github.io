@@ -21,7 +21,7 @@
 
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
-- **[🔗 〢 Discord](https://discord.gg)**
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[📷 〢 Preview](#preview)**
 - **[🧾 〢 Lisence](#lisence)**
 
